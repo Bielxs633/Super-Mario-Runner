@@ -12,9 +12,9 @@ Este projeto é uma **simulação do jogo Super Mario** no estilo **runner** (si
 ---
 
 ## Funcionalidades
-- **Movimento automático**: Mario corre continuamente para frente.
-- **Salto interativo**: Controle Mario para pular obstáculos pressionando uma tecla.
-- **Game over**: O jogo termina ao colidir com um obstáculo.
+1. **Movimento automático**: Mario corre continuamente para frente.
+2. **Salto interativo**: Controle Mario para pular obstáculos pressionando uma tecla.
+3. **Game over**: O jogo termina ao colidir com um obstáculo.
 
 ---
 
