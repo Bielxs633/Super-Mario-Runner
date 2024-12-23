@@ -19,7 +19,9 @@ Este projeto é uma **simulação do jogo Super Mario** no estilo **runner** (si
 ---
 
 ## Tecnologias utilizadas
-- **HTML** - Estrutura da página e do canvas.
-- **CSS** - Estilo visual do jogo e layout responsivo.
-- **JavaScript** - Lógica do jogo, incluindo movimentação, colisões e pontuação.
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
 
